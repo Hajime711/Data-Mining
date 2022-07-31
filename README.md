@@ -1,2 +1,2 @@
-# Data-Mining-
+# Data-Mining
 Data mining Algorithms
